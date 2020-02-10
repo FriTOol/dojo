@@ -19,9 +19,5 @@
 		"Dojo",
 		"Toolkit"
 	],
-	"homepage": "http://dojotoolkit.org/",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/fritool/dojo.git"
-	}
+	"homepage": "http://dojotoolkit.org/"
 }
